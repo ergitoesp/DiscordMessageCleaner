@@ -1,3 +1,14 @@
+# Source Code & Local Files (Private Application)
+main.js
+preload.js
+index.html
+renderer/
+styles/
+build.js
+package.json
+package-lock.json
+scripts_viejos/
+
 # Node modules
 node_modules/
 
